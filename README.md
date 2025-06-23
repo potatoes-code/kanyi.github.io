@@ -1,2 +1,1 @@
-# kanyi.github.io
-A one page resume 
+#A one page resume 
